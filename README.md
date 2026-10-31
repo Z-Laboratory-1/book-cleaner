@@ -4,7 +4,7 @@
 
 ## 下载
 
-- [`书籍清理-v1.1.0.apk`](书籍清理-v1.1.0.apk) — 17.3 MB，arm64，Android 7.0+（minSdk 24）
+- [`BookCleaner-v1.1.0.apk`](https://github.com/Z-Laboratory-1/book-cleaner/releases/latest/download/BookCleaner-v1.1.0.apk) — 17.3 MB，arm64，Android 7.0+（minSdk 24）
 
 > 未做正式签名（debug 签名），安装时需允许「未知来源」，与商店版不能互相覆盖。
 
